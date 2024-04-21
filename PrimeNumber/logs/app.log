@@ -1,0 +1,68 @@
+22:19:13.972 [PrimeNumber.App.main()] INFO  PrimeNumber.App - Input absolute path to file.
+22:19:20.843 [PrimeNumber.App.main()] INFO  PrimeNumber.App - Loading file.
+22:19:21.272 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 'Data' is incorrect number
+22:19:21.274 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 'x' is incorrect number
+22:19:21.275 [PrimeNumber.App.main()] INFO  PrimeNumber.App - Finished loading file.
+22:19:21.276 [PrimeNumber.App.main()] INFO  PrimeNumber.App - Processing prime numbers
+22:19:21.279 [PrimeNumber.App.main()] INFO  PrimeNumber.App - Finished processing prime numbers
+22:19:21.279 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 5645657
+22:19:21.279 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 15619
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 1234187
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 211
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 7
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 9788677
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 23311
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 54881
+22:19:21.280 [PrimeNumber.App.main()] INFO  PrimeNumber.App - 2147483647
+08:58:27.738 [main] INFO  PrimeNumber.App - Loading file.
+08:58:28.302 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+08:58:28.304 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+08:58:28.306 [main] INFO  PrimeNumber.App - '-2547' is negative number
+08:58:28.306 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+08:58:28.307 [main] INFO  PrimeNumber.App - Finished loading file.
+19:48:33.813 [main] INFO  PrimeNumber.App - Loading file.
+19:48:34.369 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:48:34.371 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:48:34.373 [main] INFO  PrimeNumber.App - '-2547' is negative number
+19:48:34.374 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+19:48:34.374 [main] INFO  PrimeNumber.App - Finished loading file.
+19:49:47.348 [main] INFO  PrimeNumber.App - Loading file.
+19:49:47.855 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:49:47.857 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:49:47.859 [main] INFO  PrimeNumber.App - '-2547' is negative number
+19:49:47.859 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+19:49:47.860 [main] INFO  PrimeNumber.App - Finished loading file.
+19:49:52.568 [main] INFO  PrimeNumber.App - Loading file.
+19:49:53.100 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:49:53.102 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:49:53.105 [main] INFO  PrimeNumber.App - '-2547' is negative number
+19:49:53.105 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+19:49:53.106 [main] INFO  PrimeNumber.App - Finished loading file.
+19:50:04.477 [main] INFO  PrimeNumber.App - Loading file.
+19:50:05.031 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:50:05.035 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:50:05.038 [main] INFO  PrimeNumber.App - '-2547' is negative number
+19:50:05.038 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+19:50:05.039 [main] INFO  PrimeNumber.App - Finished loading file.
+19:50:17.382 [main] INFO  PrimeNumber.App - Loading file.
+19:50:17.916 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:50:17.919 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:50:17.920 [main] INFO  PrimeNumber.App - '-2547' is negative number
+19:50:17.920 [main] INFO  PrimeNumber.App - '1587.5' is incorrect number
+19:50:17.922 [main] INFO  PrimeNumber.App - Finished loading file.
+19:50:39.762 [main] INFO  PrimeNumber.App - Input absolute path to file.
+19:51:08.294 [main] INFO  PrimeNumber.App - Loading file.
+19:51:08.719 [main] INFO  PrimeNumber.App - 'Data' is incorrect number
+19:51:08.722 [main] INFO  PrimeNumber.App - 'x' is incorrect number
+19:51:08.722 [main] INFO  PrimeNumber.App - Finished loading file.
+19:51:08.724 [main] INFO  PrimeNumber.App - Processing prime numbers
+19:51:08.726 [main] INFO  PrimeNumber.App - Finished processing prime numbers
+19:51:08.727 [main] INFO  PrimeNumber.App - 5645657
+19:51:08.727 [main] INFO  PrimeNumber.App - 15619
+19:51:08.727 [main] INFO  PrimeNumber.App - 1234187
+19:51:08.727 [main] INFO  PrimeNumber.App - 211
+19:51:08.727 [main] INFO  PrimeNumber.App - 7
+19:51:08.727 [main] INFO  PrimeNumber.App - 9788677
+19:51:08.727 [main] INFO  PrimeNumber.App - 23311
+19:51:08.728 [main] INFO  PrimeNumber.App - 54881
+19:51:08.728 [main] INFO  PrimeNumber.App - 2147483647
